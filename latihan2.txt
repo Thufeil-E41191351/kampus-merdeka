@@ -1,4 +1,0 @@
-<body>
-  <h1>Latihan membuat branch</h1>
-  <hr>
-</body>
